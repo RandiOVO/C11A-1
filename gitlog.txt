@@ -1,0 +1,55 @@
+commit a16cb4880b3e6b7e001de35613e0fcef1f9c55d3
+Author: lam-katie <lamkatie@mines.edu>
+Date:   Fri Feb 16 19:10:37 2024 -0700
+
+    Added a pink nose.
+
+commit 7949f8c042e30f174e79be73b291a324fbaf363e
+Author: lam-katie <lamkatie@mines.edu>
+Date:   Fri Feb 16 19:06:44 2024 -0700
+
+    Added a CAT text label in the color cyan.
+
+commit 5c8a933c9348f0132487aa0505cca026e657b278
+Author: lam-katie <lamkatie@mines.edu>
+Date:   Fri Feb 16 18:49:11 2024 -0700
+
+    Change the meow text to be blue.
+
+commit 450cf5e0c1a138d5223c6949b6a325eaa5c859f6
+Author: RandiOVO <82540367+RandiOVO@users.noreply.github.com>
+Date:   Fri Feb 16 18:33:09 2024 -0700
+
+    Update Cat.java
+    
+    changed mouth from pink to red
+
+commit 0286c48f99c7d6d5d25eafdbda2fd7866a483ee7
+Author: RandiOVO <82540367+RandiOVO@users.noreply.github.com>
+Date:   Fri Feb 16 18:25:17 2024 -0700
+
+    Update Cat.java
+    
+    changed color of eyes from green to yellow.
+
+commit 6646e6fc93ae991b23b1db1507ee4fd632e29e8a
+Author: RandiOVO <82540367+RandiOVO@users.noreply.github.com>
+Date:   Fri Feb 16 18:23:57 2024 -0700
+
+    Update Cat.java
+    
+    changing HEAD_DIMENSION from 100 to 150
+
+commit 89932b9957eac9e75604298e0cdbdaaf7a05ad33
+Author: RandiOVO <82540367+RandiOVO@users.noreply.github.com>
+Date:   Fri Feb 16 18:17:52 2024 -0700
+
+    Update MyDrawing.java
+    
+    changing the position of painting from (g, 50, 50) to (g, 150, 150)
+
+commit bed61eff3394865207e116b74090383e888cb7f4
+Author: RandiOVO <82540367+RandiOVO@users.noreply.github.com>
+Date:   Fri Feb 16 18:10:34 2024 -0700
+
+    adding files
